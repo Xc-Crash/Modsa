@@ -175,11 +175,6 @@ hash = "adb67ada5c165ea4a43f4c3e53ffd61c90e21292596b5609d97e938f6e8e7b16"
 metafile = true
 
 [[files]]
-file = "mods/mexicans-delight.pw.toml"
-hash = "147ef345c439ab0e7315451891d3c535e86fabad429b3db7a0dcc95cfa912e05"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
