@@ -1,0 +1,13 @@
+name = "Brazilian Delight"
+filename = "braziliandelight-forge-2.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bgz35D5U/versions/Pd8yrF2Q/braziliandelight-forge-2.0.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "45d2ec5ba6256c3f5d819ed211149d469a98f86aa384dbdfd4b6de459b4403dfe14e9a53273f959a402733a760536728120ca4b7999ed08afecf53676a95174b"
+
+[update]
+[update.modrinth]
+mod-id = "Bgz35D5U"
+version = "Pd8yrF2Q"

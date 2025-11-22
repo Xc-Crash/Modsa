@@ -1,0 +1,13 @@
+name = "Ghost"
+filename = "ghosts-forge-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJKLGvbS/versions/PhRZPs9Z/ghosts-forge-1.20.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "fcfb1b3abce57eefc7650cc78b5f544149bea9d643a38e4ee190802ef65953dfcc88d3a7baf24bd00274a87567e120be6c8c49f149d0cec2da13351afac3bca7"
+
+[update]
+[update.modrinth]
+mod-id = "gJKLGvbS"
+version = "PhRZPs9Z"

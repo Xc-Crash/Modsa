@@ -1,0 +1,13 @@
+name = "Modsa"
+author = "Ian"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c6011051ff48bff4beba1a7822efd8ddb616fbee84f715ba7bb14247144d761e"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
